@@ -1,0 +1,33 @@
+.topdiv{
+    padding-top: 5%;
+    padding-bottom: 3%;
+    background-color: rgb(231, 231, 231);
+}
+.mdiv{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 5%;
+}
+.fdiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    padding: 0px 2%;
+    margin: 2%;
+    box-shadow: 5px 10px 20px rgb(187, 187, 187);
+}
+.pacbtn{
+    width: 70px;
+    height: 70px;
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    border: none;
+    padding: 5px 10px;
+}

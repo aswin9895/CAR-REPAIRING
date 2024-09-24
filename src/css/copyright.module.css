@@ -1,0 +1,13 @@
+.copylist{
+    list-style: none;
+    display: inline;
+    margin-right: 20px;
+}
+.copylink{
+    text-decoration: none;
+    color: white;
+}
+.copylink:hover{
+    text-decoration: underline;
+    color: red;
+}
