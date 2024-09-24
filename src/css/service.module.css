@@ -1,13 +1,13 @@
-.h5c{
+.servh5c{
     color: rgb(186, 15, 15);
     font-weight: bold;
     /* text-align: center; */
 }
-.imgg{
+.servimgg{
     width: 150px;
     height: 130px;
 }
-.divflex{
+.servdivflex{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -15,6 +15,6 @@
     margin-top: 2%;
     flex-wrap: wrap;
 }
-.ac:hover{
+.servac:hover{
     font-size: 100px;
 }

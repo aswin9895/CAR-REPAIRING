@@ -4,20 +4,19 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* margin-left: px; */
 }
-.img1{
+.navimg1{
     width: 100px;
     height: 80px;
 }
 
-.kar{
+.navkar{
     text-decoration: none;
     font-weight: 600;
     color: bisque;
     line-height: 1;
 }
-.repair{
+.navrepair{
     text-decoration: none;
     color: white;
     font-size: 18px;
@@ -25,13 +24,8 @@
     line-height: 1;
 }
 
-/* li{
-    list-style: none;
-    display: inline;
-} */
 .alist{
     text-decoration: none;
     color: white;
     padding-left: 5%;
-    /* margin-left: -5%; */
 }

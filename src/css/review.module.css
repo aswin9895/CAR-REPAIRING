@@ -1,8 +1,8 @@
-.maindiv{
+.revmaindiv{
     padding-top: 5%;
     padding-bottom: 3%;
 }
-.imgprofile{
+.revimgprofile{
     border: solid 3px black;
     border-radius: 50%;
 }
